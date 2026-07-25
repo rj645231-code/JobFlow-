@@ -1,0 +1,23 @@
+{
+  "keywords": [
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "AI Engineer",
+    "Data Analyst",
+    "NLP Engineer"
+  ],
+  "location": "India",
+  "target_skills": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "tensorflow",
+    "pytorch",
+    "sql",
+    "pandas",
+    "nlp",
+    "computer vision"
+  ],
+  "max_jobs": 10,
+  "domain": "Data Science & AI"
+}
